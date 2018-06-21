@@ -1,0 +1,17 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "description": "Job scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannah Zulueta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.22.2",
+    "puppeteer": "^1.5.0"
+  }
+}
